@@ -1,0 +1,37 @@
+#Unigraph
+SIZE 7244 3308
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+17
+"<E>" 40 228 2 2 15 
+"" 1646 243 0 
+"<N+subst>" 106 234 2 3 4 
+"<NB>" 205 153 2 6 4 
+"\:" 229 310 1 7 
+",+.+-+\++\:+$+et+si+'+é+è+ç+â+à+á+<E>" 779 75 2 9 5 
+"mg+ml+g+cp+µg+µ+µmol+mmol+mol+l" 308 70 3 6 9 4 
+"<NB>+<PREPDET>+sur <NB>+par jour+<NB>h<NB>+pendant <NB> jour+jour+le midi +midi+de j<NB> à j<NB>+j<NB>+pendant un mois+pendant+mois+à <NB> heure+heure+flac\/<NB>h+j<NB>+le matin+matin+le soir +soir+semaine+mars+juin+litre+un+g+l+x+jr+cp+mg+m²+douleurs+j+h+cps+cp+ml+ng+¼+½+¾+⅐+⅑+⅒+⅓+⅔+⅕+⅖+⅗+⅘+⅙+⅚+⅛+⅜+⅝+⅞+⅟+¹+²+³+(+)+°+\/+,+comprimé+gélule+sachet+au+coucher+voix+orale+douleur+si+demande+toute+le+en+cas+gélule+fois+sachets+d+constipation+hyperthermie+’hyperthermie+'+heure+mL,+besoin+agitation+eau+gélifiée+poursuivre+encore+injection+sous+cutanée+seul+en+restant+votre+solution+disposition+pansements+solution+pour+perfusion+flacon+soins+coucher+heures+deux" 598 884 5 5 11 9 1 4 
+"<N+subst>+<FIRST>+<^>+xatral+auquel+esidrex+oui+non+ensure+loxen+bronchodual+aotal+arrete+oxycontin+,+prise+topalgic+avec+dénutrition+ferrograd+recontrôler+ainsi+de+{S}+;+,+.+_+.+\:" 1193 491 2 10 8 
+"$![" 1088 474 1 8 
+"$]" 1317 420 1 7 
+"_" 746 432 1 13 
+"<NB>" 863 446 2 14 12 
+"$[" 832 441 1 12 
+"$]" 919 449 1 9 
+"<posologie>" 114 909 1 16 
+"\:+cpr+h+<NB>+(+)+A+la+demande+sachet+gel+-+,+à" 417 1115 2 16 1 
